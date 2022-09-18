@@ -1,4 +1,4 @@
-# Netflix-Hotstar-Analysis-PowerBI
+# Netflix-Disney Dataset Analysis by PowerBI
 
 This is a project where I did exploratory analysis on Netflix and Hotstar dataset.
 
