@@ -10,10 +10,10 @@ This is a project where I did exploratory analysis on Netflix and Hotstar datase
 ## Overview of the Netflix analysis Dashboard
 ![Netflix 1](Pics/Netflix 1.jpg)
 
-![](/Pics/Netflix 2.jpg)
+![Netflix 2](/Pics/Netflix 2.jpg)
 
 ## Overview of the Disney analysis Dashboard
 
-![](Pics/Disney 1.jpg)
+![Disney 1](Pics/Disney 1.jpg)
 
-![](Pics/Disney 2.jpg)
+![Disney 2](Pics/Disney 2.jpg)
